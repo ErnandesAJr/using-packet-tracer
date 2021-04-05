@@ -44,3 +44,13 @@ Packet Tracer is a free educational program that allows you to simulate a comput
 - Create VLANs on the switches, configure the 802.1Q trunks, route between the VLANs on the Cisco router and test the connectivity of the computers through the different VLANs created:
 
   ![Networking](docs/images/question4.png)
+
+## 💻 **How to Run**
+
+- The answer to each question is within the **docs/answers** folder;
+
+- Download the files to your machine
+
+- Just click on **File** and then **Open**
+
+  ![Import](docs/images/import.png)
