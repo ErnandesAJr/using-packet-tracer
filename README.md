@@ -51,6 +51,10 @@ Packet Tracer is a free educational program that allows you to simulate a comput
 
 - Download the files to your machine
 
+- Open the Packet Tracer
+
 - Just click on **File** and then **Open**
+
+- Wait for the network to boot
 
   ![Import](docs/images/import.png)
