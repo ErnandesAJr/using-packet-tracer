@@ -14,6 +14,10 @@ Packet Tracer is a free educational program that allows you to simulate a comput
 
 - [Download Version 7.1](http://docente.ifrn.edu.br/rodrigotertulino/disciplinas/2018.1/softwares/cisco-packet-tracer-7.1.1-for-windows/packet-tracer-7.1.1-for-windows-64-bit/view)
 
+- [VLSM Calc](http://vlsmcalc.net/)
+
+- [VLSM Calculator](http://www.scit.wlv.ac.uk/~in8297/tools/vlsmCalculator.html)
+
 - [Crossover Network and Star Topology](https://www.youtube.com/watch?v=pv8SWKDtHso&ab_channel=ProfessorRamos)
 
 - [Connecting Two Different Networks](https://www.youtube.com/watch?v=-e5oM07Oed0&ab_channel=MarcosCozatti)
